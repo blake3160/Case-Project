@@ -1,3 +1,7 @@
+// Parker Stratton | declaring variables
+
+var factArray = ["", "", "", ""]
+
 // this is the script that Blake Worked on
 
 var infoState = "1";
