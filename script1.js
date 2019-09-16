@@ -1,6 +1,6 @@
 // Parker Stratton | declaring variables
 
-var factArray = ["", "", "", ""]
+var factArray = ["Fun Fact 1: Gaben Newell is also one of the main producers of the First Windows Operation System.", "Fun Fact 2: Gaben does not like the number 3!", "Fun Fact 3: Gaben is sometimes called 'Lord Gaben' because he grants discounts on steam games."]
 
 // this is the script that Blake Worked on
 
@@ -18,7 +18,7 @@ if (infoState == "1")
         let newPara = document.createElement('p');
         console.log(newPara);
 
-        let newParaNode = document.createTextNode("Fun Fact: Gaben Newell is also one of the main producers of the First Windows Operation System.");
+        let newParaNode = document.createTextNode(factArray[0]);
 
         newPara.appendChild(newParaNode);
     
