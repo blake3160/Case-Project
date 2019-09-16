@@ -7,4 +7,6 @@ username to full name
 
 blake3160 : Blake Ewalt
 
-GarrettBoxberger : Garrett Boxberger 
+GarrettBoxberger : Garrett Boxberger
+
+PS2902 : Parker Stratton
